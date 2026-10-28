@@ -4,6 +4,12 @@
 This project performs an end-to-end exploratory data analysis (EDA) on the Olist Brazilian E-Commerce dataset. Using a multi-table relational schema containing ~100k orders from 2016 to 2018, the analysis investigates regional revenue distribution, logistics and delivery efficiency, customer review sentiment, payment preferences, and top-performing product categories.
 
 ---
+## 📊 Dataset
+The dataset used for this project is the **Brazilian E-Commerce Public Dataset by Olist**. 
+* You can download the CSV files from [Kaggle - Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+* Place all downloaded CSV files into a folder named `data/` inside the project root directory before running the notebook.
+
+---
 
 ## 🛠️ Tools & Technologies Used
 * **Python**: Core programming language for analysis
